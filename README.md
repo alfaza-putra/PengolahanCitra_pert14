@@ -68,6 +68,9 @@ plt.tight_layout()
 plt.show()
 
 ```
+## Merekonstruksi gambar berikut :
+
+![image](https://github.com/alfaza-putra/PengolahanCitra_pert14/assets/129705943/82f11345-7856-4e3f-96d3-6a08e848c750)
 
 ## OUTPUT
 
